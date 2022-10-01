@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T00:38:44.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JrQJlQvtPjzoIx11HMGC" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T00:50:04.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0TP5fOjSrWaDr9YWbSAs" version="20.3.2" type="github">
   <diagram id="xd_ivLJh1A_-zqhclp_y" name="Page-1">
-    <mxGraphModel dx="591" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wBiFnpuhDJ96sovLaJxK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="40" width="666" height="403" as="geometry" />
+        </mxCell>
         <mxCell id="wBiFnpuhDJ96sovLaJxK-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;endArrow=open;endFill=0;curved=1;sketch=1;shadow=0;" edge="1" parent="1" source="wBiFnpuhDJ96sovLaJxK-5" target="wBiFnpuhDJ96sovLaJxK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="wBiFnpuhDJ96sovLaJxK-14" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="421" y="351" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wBiFnpuhDJ96sovLaJxK-19" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;场景1：&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Indie+Flower&quot; face=&quot;Indie Flower&quot; style=&quot;font-size: 12px;&quot;&gt;serviceA&lt;/font&gt;的职责需要将处理结果反馈给&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Indie+Flower&quot; face=&quot;Indie Flower&quot;&gt;serviceB&lt;/font&gt;、&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Indie+Flower&quot; face=&quot;Indie Flower&quot;&gt;serviceC&lt;/font&gt;、&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Indie+Flower&quot; face=&quot;Indie Flower&quot;&gt;serviceN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=1;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="46" y="54" width="207" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

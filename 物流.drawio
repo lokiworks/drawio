@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:24:17.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="T2yxROK0Mu5tlCCEnIrY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:25:16.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fpVggD0SNk5PepQm4uk3" version="20.5.1" type="github">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="513" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,11 +16,17 @@
         <mxCell id="Nbd2facP_n2BsDl52_lb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-2" source="APWTNTeZ0nBAhyDcR_AE-18" target="APWTNTeZ0nBAhyDcR_AE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-2" source="APWTNTeZ0nBAhyDcR_AE-18" target="APWTNTeZ0nBAhyDcR_AE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="APWTNTeZ0nBAhyDcR_AE-18" value="物流订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="APWTNTeZ0nBAhyDcR_AE-2" vertex="1">
           <mxGeometry x="105" y="133" width="237" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Nbd2facP_n2BsDl52_lb-3" value="0101-订阅履约单创建事件，创建物流计划单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-2">
           <mxGeometry x="44" y="72" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-5" value="0102-订阅履约单取消事件，取消物流计划单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-2">
+          <mxGeometry x="171" y="68" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="APWTNTeZ0nBAhyDcR_AE-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;" parent="APWTNTeZ0nBAhyDcR_AE-1" vertex="1">
           <mxGeometry x="20" y="179" width="460" height="120" as="geometry" />

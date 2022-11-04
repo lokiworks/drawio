@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:33:19.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RqR5Eh41vq7AtyXqYctP" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:36:17.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="B3z3syZ4gTuDcDHn4VSj" version="20.5.1" type="github">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="880" dy="1645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="APWTNTeZ0nBAhyDcR_AE-1" value="物流系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="139" y="-43" width="653" height="755" as="geometry" />
+          <mxGeometry x="139" y="-43" width="653" height="925" as="geometry" />
         </mxCell>
         <mxCell id="APWTNTeZ0nBAhyDcR_AE-2" value="物流计划" style="swimlane;startSize=20;horizontal=0;" parent="APWTNTeZ0nBAhyDcR_AE-1" vertex="1">
           <mxGeometry x="20" width="633" height="179" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="Nbd2facP_n2BsDl52_lb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-2" source="APWTNTeZ0nBAhyDcR_AE-18" target="APWTNTeZ0nBAhyDcR_AE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="APWTNTeZ0nBAhyDcR_AE-18" value="物流订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="APWTNTeZ0nBAhyDcR_AE-2" vertex="1">
+        <mxCell id="APWTNTeZ0nBAhyDcR_AE-18" value="物流计划单" style="rounded=0;whiteSpace=wrap;html=1;" parent="APWTNTeZ0nBAhyDcR_AE-2" vertex="1">
           <mxGeometry x="105" y="133" width="237" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Nbd2facP_n2BsDl52_lb-3" value="0101-订阅履约单创建事件，创建物流计划单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-2">
@@ -75,7 +75,7 @@
         <mxCell id="Nbd2facP_n2BsDl52_lb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.922;exitY=-0.024;exitDx=0;exitDy=0;entryX=0.92;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;exitPerimeter=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-4" source="Nbd2facP_n2BsDl52_lb-15" target="Nbd2facP_n2BsDl52_lb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nbd2facP_n2BsDl52_lb-15" value="交付中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-4">
+        <mxCell id="Nbd2facP_n2BsDl52_lb-15" value="物流子运输单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-4">
           <mxGeometry x="102.5" y="192" width="345.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Nbd2facP_n2BsDl52_lb-17" value="0301-确认装车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-4">
@@ -90,8 +90,34 @@
         <mxCell id="Nbd2facP_n2BsDl52_lb-23" value="0304-确认装车通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-4">
           <mxGeometry x="363" y="107" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="APWTNTeZ0nBAhyDcR_AE-16" style="swimlane;startSize=20;horizontal=0;" parent="APWTNTeZ0nBAhyDcR_AE-1" vertex="1">
-          <mxGeometry x="20" y="635" width="633" height="120" as="geometry" />
+        <mxCell id="APWTNTeZ0nBAhyDcR_AE-16" value="物流交付" style="swimlane;startSize=20;horizontal=0;" parent="APWTNTeZ0nBAhyDcR_AE-1" vertex="1">
+          <mxGeometry x="20" y="635" width="633" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-24" value="服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-16">
+          <mxGeometry x="102" y="19" width="345.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-16" source="Nbd2facP_n2BsDl52_lb-25" target="Nbd2facP_n2BsDl52_lb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="APWTNTeZ0nBAhyDcR_AE-16" source="Nbd2facP_n2BsDl52_lb-25" target="Nbd2facP_n2BsDl52_lb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-25" value="（物流交付）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-16">
+          <mxGeometry x="102" y="202" width="345.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-30" value="0401-订阅进场完成/取消事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-16">
+          <mxGeometry x="91" y="118" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-31" value="0402-订阅退场完成/取消事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-16">
+          <mxGeometry x="195" y="118" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-32" value="0403-订阅调拨完成/取消事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APWTNTeZ0nBAhyDcR_AE-16">
+          <mxGeometry x="290" y="118" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbd2facP_n2BsDl52_lb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="Nbd2facP_n2BsDl52_lb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="648.0226934523807" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

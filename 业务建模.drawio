@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T13:08:53.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="F1DRUKE3239X-YJPWYlz" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T13:20:52.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1UvSEHMMX6S5cgg2L7aJ" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,6 +278,9 @@
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-10" value="XXX物流承运商下的角色：调度、司机、、承运商" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-11" value="物流运营人员（物流调度专员、物流调度经理），人员隶属于众能联合商户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="129" y="80" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T14:00:25.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p86CtkV1LbQ-kGZ7hA3z" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T14:02:16.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uXmDvAEnnIy8oTNiXjBG" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvsuOGFnwsf74FbpqplC" name="Page-4">
-    <mxGraphModel dx="880" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="973" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,8 +378,8 @@
         <mxCell id="vpUMt44C3M_rkRP4lfGI-44" value="作为独立运营的物流平台，为客（使用物流平台的客户）与商（承运商）提供车与货的匹配，并提供一些附加的能力（如：交付作业【货物的装卸、培训等】）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="529" y="733" width="278" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="vpUMt44C3M_rkRP4lfGI-45" value="备注：物流APP中主体能力由物流平台提供，交付作业能力（增值能力）由供应链平台的服务中心提供能力（含前端展示页面，使用了aPaaS）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="42" y="904" width="756" height="30" as="geometry" />
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-45" value="备注：&lt;br&gt;1. 物流APP中主体能力由物流平台提供，交付作业能力（增值能力）由供应链平台的服务中心提供能力（含前端展示页面，使用了aPaaS）&lt;br&gt;2. 交付作业的场景解释， xxx商户中的进退场单据中的交付任务由物流平台指派“一”名司机进行完成相关的任务。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="42" y="904" width="756" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

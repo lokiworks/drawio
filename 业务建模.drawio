@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T10:50:27.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EqhRL93G4UL5YaAjX0Vk" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-29T11:33:33.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WJ0TuS5w-Y_GLX8T_KRG" version="20.6.0" type="github" pages="3">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,14 @@
         <mxCell id="m-EQs6vto2LAC3uDmana-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="m-EQs6vto2LAC3uDmana-4" target="m-EQs6vto2LAC3uDmana-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m-EQs6vto2LAC3uDmana-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="m-EQs6vto2LAC3uDmana-4" target="m-EQs6vto2LAC3uDmana-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="523" />
+              <mxPoint x="577" y="523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m-EQs6vto2LAC3uDmana-4" value="商户N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="372" width="173" height="60" as="geometry" />
         </mxCell>
@@ -229,6 +237,9 @@
         </mxCell>
         <mxCell id="m-EQs6vto2LAC3uDmana-21" value="供应链系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="103" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-EQs6vto2LAC3uDmana-24" value="隶属于某一商户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="482" width="112" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

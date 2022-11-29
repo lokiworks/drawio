@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T14:18:16.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0zYc-glIg-PE-YR3B8uh" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T14:19:02.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZjUZ2BtIL1baXRFLqT66" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvsuOGFnwsf74FbpqplC" name="Page-4">
-    <mxGraphModel dx="1320" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="637" dy="345" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,8 +276,28 @@
         <mxCell id="vpUMt44C3M_rkRP4lfGI-3" value="供应链平台PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="189" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.388;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-4" target="vpUMt44C3M_rkRP4lfGI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="290" />
+              <mxPoint x="641" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-4" value="承运商PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.788;entryY=0.009;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-5" target="vpUMt44C3M_rkRP4lfGI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.4984418083641" y="310.78821877872247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="724" y="300" />
+              <mxPoint x="399" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-5" value="物流APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="191" width="120" height="60" as="geometry" />
@@ -410,6 +430,15 @@
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-56" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="388" y="249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-60" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-61" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="592" y="254" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-62" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="753.5" y="262" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T12:58:59.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p2hQFaHAKZF24QMII_Wr" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T12:59:54.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8EEYti82dZOZ-mXyFeWR" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,9 @@
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-6" value="角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="43" y="31" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-7" value="XXX商户下的交付、资产、服务人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="132" y="25" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

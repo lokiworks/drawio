@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T13:25:45.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="d2967l89-c9YG_7Cju9w" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T13:49:59.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uWN4ZiRgjjjWGQKAry9D" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvsuOGFnwsf74FbpqplC" name="Page-4">
-    <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,25 +259,25 @@
           <mxGeometry x="297" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-4" value="承运商PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="189" width="120" height="60" as="geometry" />
+          <mxGeometry x="532" y="191" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-5" value="物流APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="189" width="120" height="60" as="geometry" />
+          <mxGeometry x="694" y="191" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-6" value="角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="37" y="58" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-7" value="XXX商户下的交付、资产、服务人员" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="25" width="125" height="30" as="geometry" />
+          <mxGeometry x="132" y="8" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="vpUMt44C3M_rkRP4lfGI-8" value="XXX商户下的交付、资产、服务人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="296" y="25" width="120" height="30" as="geometry" />
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-8" value="XXX商户下的交付、资产、服务人员" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296" y="8" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vpUMt44C3M_rkRP4lfGI-9" value="XXX物流承运商" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="459" y="25" width="120" height="30" as="geometry" />
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-9" value="XXX物流承运商" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529" y="10" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vpUMt44C3M_rkRP4lfGI-10" value="XXX物流承运商下的角色：调度、司机、、承运商" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="25" width="120" height="30" as="geometry" />
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-10" value="XXX物流承运商下的角色：调度、司机、、承运商" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="692" y="8" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-11" value="物流运营人员（物流调度专员、物流调度经理），人员隶属于众能联合商户" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132" y="88" width="122" height="69" as="geometry" />
@@ -288,17 +288,89 @@
         <mxCell id="vpUMt44C3M_rkRP4lfGI-13" value="系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="409" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-14" target="vpUMt44C3M_rkRP4lfGI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="133" y="312" width="280" height="256" as="geometry" />
+          <mxGeometry x="133" y="312" width="280" height="311" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="462" y="312" width="280" height="256" as="geometry" />
+          <mxGeometry x="531" y="310" width="283" height="316" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-16" value="供应链（大商/加盟商）平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="187" y="319" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-17" value="职责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="692" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="749" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-18" target="vpUMt44C3M_rkRP4lfGI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-18" value="&lt;b&gt;交易中心&lt;br&gt;&lt;/b&gt;（订单、商品、合同）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="146" y="377" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-19" target="vpUMt44C3M_rkRP4lfGI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-19" value="&lt;b&gt;交付中心&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="297" y="377" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-22" value="&lt;b&gt;资产中心&lt;br&gt;&lt;/b&gt;（设备、库存、配件）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="146.75" y="532" width="92.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-23" value="调度决策" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237" y="384" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-24" target="vpUMt44C3M_rkRP4lfGI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-24" value="&lt;b&gt;服务中心&lt;br&gt;&lt;/b&gt;（&lt;font color=&quot;#ff3333&quot;&gt;进退场&lt;/font&gt;、设备整备、报养等）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="532" width="92.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-26" value="&lt;font color=&quot;#000000&quot;&gt;下发进退场、报修、报停单&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="447" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-28" value="设备的使用（库存的扣减）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="242" y="515" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-29" value="配件的领用/返还" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="243" y="579" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-30" value="物流平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="322" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-31" target="vpUMt44C3M_rkRP4lfGI-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-31" value="&lt;b&gt;交易管理&lt;br&gt;&lt;/b&gt;（订单、商品、合同）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="549" y="374" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-32" target="vpUMt44C3M_rkRP4lfGI-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-32" value="&lt;b&gt;调度管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="699" y="374" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-34" value="调度决策" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="639" y="380" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-35" target="vpUMt44C3M_rkRP4lfGI-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-35" value="&lt;b&gt;运输管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="699" y="532" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-37" value="指派承运商/司机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="681" y="453" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-38" value="&lt;b&gt;支付结算&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="555" y="532" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-40" value="生成对账/调账单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="643.5" y="518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-42" value="xxx商户使用物流（下物流订单）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="413" y="432" width="114" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

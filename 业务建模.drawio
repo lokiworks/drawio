@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T14:02:16.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uXmDvAEnnIy8oTNiXjBG" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-29T14:18:16.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0zYc-glIg-PE-YR3B8uh" version="20.6.0" type="github" pages="4">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,15 +245,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvsuOGFnwsf74FbpqplC" name="Page-4">
-    <mxGraphModel dx="973" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.593;exitY=1.01;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-1" target="vpUMt44C3M_rkRP4lfGI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601" y="308" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="293" />
+              <mxPoint x="601" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-1" value="服务铁军APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-2" value="终端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="201" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.803;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-3" target="vpUMt44C3M_rkRP4lfGI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="vpUMt44C3M_rkRP4lfGI-3" target="vpUMt44C3M_rkRP4lfGI-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-3" value="供应链平台PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="189" width="120" height="60" as="geometry" />
@@ -380,6 +398,18 @@
         </mxCell>
         <mxCell id="vpUMt44C3M_rkRP4lfGI-45" value="备注：&lt;br&gt;1. 物流APP中主体能力由物流平台提供，交付作业能力（增值能力）由供应链平台的服务中心提供能力（含前端展示页面，使用了aPaaS）&lt;br&gt;2. 交付作业的场景解释， xxx商户中的进退场单据中的交付任务由物流平台指派“一”名司机进行完成相关的任务。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="42" y="904" width="756" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-49" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="143" y="249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-50" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="295" y="249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-53" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="221" y="249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpUMt44C3M_rkRP4lfGI-56" value="调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="388" y="249" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

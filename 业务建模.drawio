@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T03:18:15.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FD_Z1cC0IZhdl-Hnf8f0" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-30T03:19:46.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pooS4sCdyy1wNEzmMwMp" version="20.6.0" type="github" pages="5">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,6 +483,12 @@
         </mxCell>
         <mxCell id="xApBjGCAEmjtKhTUdEmr-11" value="xxx承运商下的人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="410" y="33" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-14" value="在服务铁军APP端操作进退场单据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="22" y="139" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-15" value="在物流APP端操作进退场单据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="271" y="142" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T07:47:29.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XCcVegtjRhx__dH8Ifii" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-30T07:48:55.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O65J2NWQ6dVijM9bs648" version="20.6.0" type="github" pages="5">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w8wpJvpfHn00Olk9D4Nc" name="Page-5">
-    <mxGraphModel dx="308" dy="167" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,7 +499,7 @@
         <mxCell id="xApBjGCAEmjtKhTUdEmr-17" value="大的供应链产品矩阵， 整个大的供应链体系使用同一套账号体系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="545" y="55" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xApBjGCAEmjtKhTUdEmr-19" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;1. 供应链&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;系统锚定的是商户，这个系统内部会孵化出其他类似&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;物流&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;的xxx平台。独立的为商户赋能的其他产品&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-19" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;1. 供应链&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;系统锚定的是商户，这个系统内部会&lt;b&gt;孵化&lt;/b&gt;出其他类似&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;物流&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;的xxx平台。独立的为商户赋能的其他产品&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="617" y="196" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xApBjGCAEmjtKhTUdEmr-20" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;2. 业务发展的形态：以众能联合这家商户为试点，打造&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;供应链&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;text-only&quot;&gt;相关的能力，并将能力逐步开放给平台内或外的其他商户&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">

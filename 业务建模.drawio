@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T03:14:31.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KfREiLGG5s7e-g9Jo4dY" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-30T03:18:15.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FD_Z1cC0IZhdl-Hnf8f0" version="20.6.0" type="github" pages="5">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
     <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w8wpJvpfHn00Olk9D4Nc" name="Page-5">
-    <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,7 +470,19 @@
           <mxGeometry x="358" y="317" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xApBjGCAEmjtKhTUdEmr-8" value="存放&amp;amp;管理交付履约过程中的相关单据（比如：进退场单）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="221" y="449" width="225" height="30" as="geometry" />
+          <mxGeometry x="202" y="450" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="xApBjGCAEmjtKhTUdEmr-9" target="xApBjGCAEmjtKhTUdEmr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-9" value="xx商户组织下的人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="169" y="33" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=open;endFill=0;" edge="1" parent="1" source="xApBjGCAEmjtKhTUdEmr-11" target="xApBjGCAEmjtKhTUdEmr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xApBjGCAEmjtKhTUdEmr-11" value="xxx承运商下的人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="33" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

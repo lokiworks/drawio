@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T15:40:39.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5dQNT44PZUGAbB_oIt3h" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-03T15:41:09.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TMWC0Ktlls873vXGCIkq" version="20.6.0" type="github" pages="3">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,6 +230,9 @@
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-23" value="5. 告知确认退场的设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="720" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPgHm8Nfwb3JbHD5T239-25" value="6. 告知需要运输的具体设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302" y="765" width="157" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

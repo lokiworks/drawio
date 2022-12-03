@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T14:32:13.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YHI-X6pI3CF5rl3KlERq" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-03T14:35:37.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Xne-WFy57ILfMNpcFhZc" version="20.6.0" type="github" pages="2">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ur_PIicICGLiuJ_Fql3G" name="Page-2">
-    <mxGraphModel dx="973" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="mRBstP0G_V_J_bvDxeGN-15" value="3. 告知实际需要物流运输的具体设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="242" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRBstP0G_V_J_bvDxeGN-16" value="备注：&lt;br&gt;1. 退场场景交付场景，物流挑选出交付的司机， 设备信息确认完毕后， 由交付中心告知物流具体的设备信息&lt;br&gt;2. 物流侧司机运输任务的执行的前提， 判断当前运输任务中，物流订单是否已告知具体的设备信息" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="121" y="461" width="618" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

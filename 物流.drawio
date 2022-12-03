@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T14:01:12.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PceyJOZcitLO0P9SqgkC" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-03T14:02:23.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zH1Z3tgl9pXwlwcak0MI" version="20.6.0" type="github" pages="2">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="mRBstP0G_V_J_bvDxeGN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mRBstP0G_V_J_bvDxeGN-1" target="mRBstP0G_V_J_bvDxeGN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mRBstP0G_V_J_bvDxeGN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mRBstP0G_V_J_bvDxeGN-1" value="物流使用方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="83" width="593" height="72" as="geometry" />
         </mxCell>
         <mxCell id="mRBstP0G_V_J_bvDxeGN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

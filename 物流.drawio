@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T15:34:32.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wQqLIeNDLglCadcinKaC" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-03T15:35:16.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="44Nxt7qwmREbgsVN7GYS" version="20.6.0" type="github" pages="3">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GLdbctE-XA7oUnmVcBer" name="Page-3">
-    <mxGraphModel dx="2053" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-4" value="物流中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="539" width="283" height="72" as="geometry" />
+          <mxGeometry x="169" y="539" width="248" height="72" as="geometry" />
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-5" value="&lt;span&gt;业务场景&lt;/span&gt;：退场， 司机交付" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="359" y="26" width="181" height="30" as="geometry" />
@@ -188,16 +188,16 @@
           <mxGeometry x="468" y="539" width="279" height="72" as="geometry" />
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-11" value="备注：&lt;br&gt;1. 退场场景交付场景，物流挑选出交付的司机， 设备信息确认完毕后， 由交付中心告知物流具体的设备信息&lt;br&gt;2. 物流侧司机运输任务的执行的前提， 判断当前运输任务中，物流订单是否已告知具体的设备信息" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="823" y="457" width="618" height="60" as="geometry" />
+          <mxGeometry x="145.5" y="1027" width="618" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-12" value="物流APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="154" width="585" height="72" as="geometry" />
+          <mxGeometry x="166" y="152" width="585" height="72" as="geometry" />
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.088;exitY=0.016;exitDx=0;exitDy=0;entryX=0.179;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="bPgHm8Nfwb3JbHD5T239-15" target="bPgHm8Nfwb3JbHD5T239-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPgHm8Nfwb3JbHD5T239-15" value="交付中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="839" width="585" height="72" as="geometry" />
+          <mxGeometry x="162" y="840" width="585" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

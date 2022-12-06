@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T15:12:23.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5ydLTsnCugOhCt6qOtoy" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-06T15:15:44.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WIb3mnLPXAtS6RVqzq3S" version="20.6.0" type="github" pages="5">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,12 +293,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qKC2S3kF-DriDNV2GrBr" name="Page-5">
-    <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IZG16wKwyZU-aKsrDNLq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="161" width="425" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="IZG16wKwyZU-aKsrDNLq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="IZG16wKwyZU-aKsrDNLq-21" target="IZG16wKwyZU-aKsrDNLq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="274" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="359" y="200" width="83" height="99" as="geometry" />
@@ -363,7 +370,10 @@
           <mxGeometry x="358" y="863" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-22" value="合同" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="82" y="392" width="120" height="60" as="geometry" />
+          <mxGeometry x="5" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IZG16wKwyZU-aKsrDNLq-24" value="合同信息同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71" y="339" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

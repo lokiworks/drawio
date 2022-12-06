@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T06:43:51.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1Qea6WdcM-dlwbIzIL4S" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-06T06:44:00.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KUBVA0KtH9N2YlPt996R" version="20.6.0" type="github" pages="4">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="76wv02CxLJAhQ8qtAVQ6-22" value="物流订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="633" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76wv02CxLJAhQ8qtAVQ6-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76wv02CxLJAhQ8qtAVQ6-13" target="76wv02CxLJAhQ8qtAVQ6-21">
+        <mxCell id="76wv02CxLJAhQ8qtAVQ6-28" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="76wv02CxLJAhQ8qtAVQ6-13" target="76wv02CxLJAhQ8qtAVQ6-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519" y="689" as="sourcePoint" />
             <mxPoint x="569" y="639" as="targetPoint" />

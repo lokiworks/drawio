@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T13:04:05.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5t1ZFIYTHp_zwZB4Eso7" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-06T13:04:17.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eFOsPbddEeETQEngm36k" version="20.6.0" type="github" pages="5">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
           <mxGeometry x="140" y="161" width="336" height="144" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="354" y="648" width="174" height="451" as="geometry" />
+          <mxGeometry x="270" y="648" width="288" height="451" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-1" value="平台" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="199" y="205" width="30" height="60" as="geometry" />

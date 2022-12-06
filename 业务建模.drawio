@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T07:35:32.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vTQoMZTIJFh8wtWCApu4" version="20.6.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-06T16:03:10.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RtF_EZyuVXuCGf8AfSw3" version="20.5.3" type="github" pages="7">
   <diagram id="gvt5S0LrzWQ9CqKp3i4-" name="Page-1">
-    <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,7 +512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vGD33sLfGzDzPvT5pZyt" name="Page-6">
-    <mxGraphModel dx="924" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,21 +567,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hb_XXqhJ4osItFlWL5ET" name="Page-7">
-    <mxGraphModel dx="770" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1031" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gu9139a1F4RA8WDi7Q3v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="gu9139a1F4RA8WDi7Q3v-1" target="gu9139a1F4RA8WDi7Q3v-2">
+        <mxCell id="gu9139a1F4RA8WDi7Q3v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;" parent="1" source="gu9139a1F4RA8WDi7Q3v-1" target="gu9139a1F4RA8WDi7Q3v-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gu9139a1F4RA8WDi7Q3v-1" value="订单项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gu9139a1F4RA8WDi7Q3v-1" value="订单项" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu9139a1F4RA8WDi7Q3v-2" value="价格条款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gu9139a1F4RA8WDi7Q3v-2" value="价格条款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu9139a1F4RA8WDi7Q3v-4" value="1:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gu9139a1F4RA8WDi7Q3v-4" value="1:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVW0zvaUutDUvMZiTs-U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=block;endFill=1;strokeColor=#B3B3B3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247" y="71" as="sourcePoint" />
+            <mxPoint x="247" y="157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVW0zvaUutDUvMZiTs-U-2" value="条款变更" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178" y="93" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T03:48:40.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nZsYx9aOBzyp0aXOjejt" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-06T03:58:50.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="x_NFedDQgvFG_iAZBus_" version="20.6.0" type="github" pages="4">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="76wv02CxLJAhQ8qtAVQ6-1" value="物流中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="97" y="159" width="655" height="60" as="geometry" />
+          <mxGeometry x="52" y="222" width="655" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76wv02CxLJAhQ8qtAVQ6-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="154.5" y="42" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76wv02CxLJAhQ8qtAVQ6-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="574.5" y="42" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

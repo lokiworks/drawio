@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T14:45:36.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Sl0Py-4kjogch5EC-Ba7" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-06T14:46:26.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iWHr9ABGWPb4gbBe1QF2" version="20.6.0" type="github" pages="5">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="924" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
         <mxCell id="IZG16wKwyZU-aKsrDNLq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;startArrow=open;startFill=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="IZG16wKwyZU-aKsrDNLq-2" target="IZG16wKwyZU-aKsrDNLq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZG16wKwyZU-aKsrDNLq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="IZG16wKwyZU-aKsrDNLq-2">
+        <mxCell id="IZG16wKwyZU-aKsrDNLq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;entryX=0.435;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IZG16wKwyZU-aKsrDNLq-2" target="IZG16wKwyZU-aKsrDNLq-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="383" as="targetPoint" />
           </mxGeometry>
@@ -324,10 +324,10 @@
           <mxGeometry x="277" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="272" y="385" width="291" height="160" as="geometry" />
+          <mxGeometry x="272" y="392" width="291" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-6" value="ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="398" width="54" height="18" as="geometry" />
+          <mxGeometry x="373.5" y="407" width="54" height="18" as="geometry" />
         </mxCell>
         <mxCell id="IZG16wKwyZU-aKsrDNLq-8" value="下了一笔订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="321" width="88" height="30" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T04:00:13.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JuUCog6RXIVOOKKvOxYJ" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-11T04:03:52.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f8bx4JbPcQOCWQsSwoOe" version="21.0.6" type="github" pages="6">
   <diagram id="4sM6ASObdVb9LUDv15Ly" name="交互流程">
     <mxGraphModel dx="936" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -646,7 +646,16 @@
           <mxGeometry x="322" y="549" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A1DbOZx20mjWSRgEj0Ax-318" value="&lt;b&gt;实际运费&lt;/b&gt;=运费1+运费2+...+运费6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="310.22" width="183" height="30" as="geometry" />
+          <mxGeometry x="744.81" y="293" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A1DbOZx20mjWSRgEj0Ax-319" value="&lt;b&gt;对客运费报价=&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="723" y="761" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A1DbOZx20mjWSRgEj0Ax-320" value="&lt;b&gt;给承运商的运费=&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="724.31" y="783.5" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A1DbOZx20mjWSRgEj0Ax-321" value="&lt;b&gt;差价=&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="724.31" y="809" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
